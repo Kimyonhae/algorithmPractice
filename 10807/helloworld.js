@@ -1,6 +1,4 @@
 const fs = require('fs');
-
-
 const input = fs.readFileSync("10807/test.txt").toString().split("\n");
 
 let count = 0;
